@@ -1,0 +1,18 @@
+{
+  "name": "17scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "creditscoresok.net ◄ Get Your FREE Credit Score creditscoresok.net, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "creditscoresok.net",
+    "build credit score",
+    "best site credit score",
+    "credit score medical bills",
+    "a credit score definition"
+  ],
+  "repository": "https://github.com/truelestor/17scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
